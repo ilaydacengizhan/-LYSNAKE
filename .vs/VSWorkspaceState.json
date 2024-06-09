@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SnakeConsolegame",
+    "\\SnakeConsolegame\\SnakeConsolegame",
+    "\\SnakeConsolegame\\SnakeConsolegame\\bin",
+    "\\SnakeConsolegame\\SnakeConsolegame\\Core",
+    "\\SnakeConsolegame\\SnakeConsolegame\\Enums",
+    "\\SnakeConsolegame\\SnakeConsolegame\\GameObjects",
+    "\\SnakeConsolegame\\SnakeConsolegame\\GameObjects\\Foods",
+    "\\SnakeConsolegame\\SnakeConsolegame\\Utilities"
+  ],
+  "SelectedNode": "\\SnakeConsolegame\\SnakeConsolegame.sln",
+  "PreviewInSolutionExplorer": false
+}
