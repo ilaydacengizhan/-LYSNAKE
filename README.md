@@ -1,2 +1,2 @@
 # ILYSNAKE
- C# Console Game
+Simple snake game project made in C#
